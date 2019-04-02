@@ -4,7 +4,7 @@
 
 <script>
 export default {
-  name: "carousel"
+  name: "NavigationButton.vue"
 };
 </script>
 

@@ -4,7 +4,7 @@
 
 <script>
 export default {
-  name: "carousel"
+  name: "PaginationDot.vue"
 };
 </script>
 
